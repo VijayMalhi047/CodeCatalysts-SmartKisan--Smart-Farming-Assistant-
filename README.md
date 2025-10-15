@@ -23,7 +23,8 @@
 - **Mobile-First Design**: Optimized for farmers in rural areas
 
 **[Screenshot: Dashboard Overview]**
-*Placeholder: Take screenshot of the main dashboard showing weather cards, crop information, and action buttons*
+<img width="1857" height="907" alt="image" src="https://github.com/user-attachments/assets/240e2df8-b8bf-4984-aec8-a294bf3cd3e7" />
+
 
 ## 🚀 Features
 
@@ -34,7 +35,9 @@
 - Historical data integration
 
 **[Screenshot: Chat Interface]**
-*Placeholder: Show the chat interface with conversation history and input area*
+<img width="1920" height="903" alt="image" src="https://github.com/user-attachments/assets/b42ae7cd-42f7-47ef-a068-60133c6dfa94" />
+
+
 
 ### 2. Smart Dashboard
 - Real-time weather information
@@ -43,7 +46,8 @@
 - Quick action buttons
 
 **[Screenshot: Weather Dashboard]**
-*Placeholder: Display weather cards with temperature, humidity, rainfall, soil moisture, and wind speed*
+<img width="1448" height="690" alt="image" src="https://github.com/user-attachments/assets/f441c277-9474-40d3-b6ec-a48038cc9a9d" />
+
 
 ### 3. Analytics & Reports
 - Interactive charts and graphs
@@ -52,7 +56,10 @@
 - PDF export functionality
 
 **[Screenshot: Analytics Page]**
-*Placeholder: Show charts for temperature vs humidity, AQI components, and crop yield predictions*
+<img width="1918" height="901" alt="image" src="https://github.com/user-attachments/assets/6a11462a-3ff9-4c63-aba9-237524bd9d0b" />
+<img width="1913" height="910" alt="image" src="https://github.com/user-attachments/assets/7f1b7970-dc58-403d-b10f-9fef416653b1" />
+
+
 
 ### 4. Personalized Settings
 - Crop type selection
@@ -61,7 +68,10 @@
 - Notification preferences
 
 **[Screenshot: Settings Page]**
-*Placeholder: Display settings interface with crop selection, region choice, and language toggle*
+<img width="1917" height="901" alt="image" src="https://github.com/user-attachments/assets/4a2ff049-765c-4bf3-a067-089a7639a368" />
+<img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/19d45fe1-ceef-454c-8a4e-295057c70851" />
+
+
 
 ## 🛠 Technology Stack
 
@@ -132,8 +142,8 @@ npm run dev
 #### 5. Access Application
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-**[Screenshot: Terminal showing successful installation]**
-*Placeholder: Show terminal with npm install and npm run dev commands running successfully*
+<img width="423" height="64" alt="image" src="https://github.com/user-attachments/assets/3a5cf9d8-f1e5-4cd1-bd76-f03fa3f1f781" />
+
 
 ## 📁 Project Structure
 
@@ -167,8 +177,6 @@ smartkisan/
 - **Crop Status**: Current crop health and needs
 - **Quick Actions**: Access to chat, analytics, and settings
 
-**[Screenshot: Annotated Dashboard]**
-*Placeholder: Dashboard with callouts explaining each section*
 
 #### 2. Using AI Chat Assistant
 1. Click "Chat with AI" from dashboard
@@ -178,8 +186,6 @@ smartkisan/
    - "How much water does rice need?"
    - "What's the best fertilizer for cotton?"
 
-**[Screenshot: Chat Conversation]**
-*Placeholder: Show a complete conversation about wheat planting*
 
 #### 3. Viewing Analytics
 1. Navigate to Analytics page
@@ -189,8 +195,6 @@ smartkisan/
    - Crop yield predictions
 3. Export reports as PDF
 
-**[Screenshot: Analytics Charts]**
-*Placeholder: Display various charts with farming data*
 
 #### 4. Configuring Settings
 1. Set your primary crop type
@@ -198,8 +202,6 @@ smartkisan/
 3. Choose preferred language
 4. Configure notifications
 
-**[Screenshot: Settings Configuration]**
-*Placeholder: Show settings page with crop selection and region choices*
 
 ## 🔌 API Documentation
 
