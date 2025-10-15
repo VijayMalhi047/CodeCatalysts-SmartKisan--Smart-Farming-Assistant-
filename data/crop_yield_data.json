@@ -1,0 +1,36 @@
+{
+  "wheat": {
+    "punjab": {
+      "2008": { "yield_per_acre": 28.5, "sowing_area": 16500, "quality": "good" },
+      "2009": { "yield_per_acre": 26.8, "sowing_area": 16800, "quality": "average" },
+      "2010": { "yield_per_acre": 30.2, "sowing_area": 16200, "quality": "excellent" },
+      "2011": { "yield_per_acre": 27.8, "sowing_area": 17000, "quality": "good" },
+      "2012": { "yield_per_acre": 29.5, "sowing_area": 16600, "quality": "good" },
+      "2013": { "yield_per_acre": 25.6, "sowing_area": 16400, "quality": "poor" },
+      "2014": { "yield_per_acre": 31.2, "sowing_area": 16900, "quality": "excellent" },
+      "2015": { "yield_per_acre": 28.8, "sowing_area": 16700, "quality": "good" },
+      "2016": { "yield_per_acre": 27.2, "sowing_area": 16500, "quality": "average" },
+      "2017": { "yield_per_acre": 29.8, "sowing_area": 17100, "quality": "good" },
+      "2018": { "yield_per_acre": 32.1, "sowing_area": 16800, "quality": "excellent" },
+      "2019": { "yield_per_acre": 26.5, "sowing_area": 16300, "quality": "poor" },
+      "2020": { "yield_per_acre": 30.8, "sowing_area": 17200, "quality": "good" },
+      "2021": { "yield_per_acre": 28.2, "sowing_area": 16600, "quality": "average" },
+      "2022": { "yield_per_acre": 31.5, "sowing_area": 16900, "quality": "excellent" },
+      "2023": { "yield_per_acre": 29.2, "sowing_area": 16700, "quality": "good" }
+    }
+  },
+  "rice": {
+    "punjab": {
+      "2008": { "yield_per_acre": 22.5, "sowing_area": 5200, "quality": "good" },
+      "2009": { "yield_per_acre": 20.8, "sowing_area": 5400, "quality": "average" },
+      "2023": { "yield_per_acre": 25.2, "sowing_area": 5800, "quality": "excellent" }
+    }
+  },
+  "cotton": {
+    "punjab": {
+      "2008": { "yield_per_acre": 18.5, "sowing_area": 4800, "quality": "average" },
+      "2009": { "yield_per_acre": 16.2, "sowing_area": 5200, "quality": "poor" },
+      "2023": { "yield_per_acre": 22.8, "sowing_area": 5100, "quality": "good" }
+    }
+  }
+}
